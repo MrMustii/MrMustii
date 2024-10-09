@@ -36,4 +36,4 @@ In addition to my master's studies, some of the repositories you'll find here co
 Feel free to explore my repositories to see some of my work, including course assignments, personal projects, and collaborations.
 
 ### Get in Touch
-I'm always open to connecting and collaborating! Feel free to reach out to me via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/mustafa-el-madani/)) or [email](mustii.elmadani@gmail.com).
+I'm always open to connecting and collaborating! Feel free to reach out to me via [LinkedIn]((https://www.linkedin.com/in/mustafa-el-madani/)) or [email](mustii.elmadani@gmail.com).
